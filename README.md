@@ -2,7 +2,7 @@ Four improved multi-label classifiers to identify subcellular locations of human
 
 The flowchart to show the construction and evaluation procedures of four classifiers is illustrated below.
 
-![Figure](https://github.com/SummerXinTong/pLoc-RAKEL/blob/main/Figure.jpg)
+![Figure](https://github.com/SummerXinTong/pLoc-RAKEL/blob/main/Figure.tif)
 
 Dataset folder: Four protein benchmark datasets for human, animal, Gram-negative bacterial and eukaryotic proteins.
 
